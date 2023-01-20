@@ -6,7 +6,7 @@ first test repository
 2.test
 3.follow how to
 
-| Syntax | Description |
+| SCAL param | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Dynamic | Title |
+| Relperm | phase capacity to flow |
