@@ -8,3 +8,4 @@ m1=plt
 #Here is Feature part
 
 f1 = plt
+f2 = plt
