@@ -3,3 +3,5 @@ import matplotlib as plt
 red 
 yellow 
 blue
+#add part
+purple
