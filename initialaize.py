@@ -2,7 +2,7 @@ import matplotlib as plt
 import numpy as np  
 #main
 red 
-gul
+yellow
 blue
 #add part
 purple
