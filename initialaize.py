@@ -2,8 +2,10 @@ import matplotlib as plt
 import numpy as np  
 #main
 red 
-yellow
+guling
 blue
 #add part
 purple
 lilla
+vanilla
+dilla
