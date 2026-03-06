@@ -1,6 +1,6 @@
 import matplotlib as plt
 #main
-red 
+reed 
 yellow 
 blue
 #add part
