@@ -8,4 +8,4 @@ blue
 purple
 lilla
 vanilla
-dilla
+snilla
